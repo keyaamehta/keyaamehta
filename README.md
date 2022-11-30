@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @keyaamehta
 - 👀 I’m interested in Robotics, HealthTech and STEM Education
 - 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on Mobile Robotics software
+- 💞️ I’m looking to learn more about Socket Programming
 - 📫 How to reach me -> keyaa.mehta@gmail.com
 
 <!---

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @keyaamehta
 - 👀 I’m interested in Robotics, HealthTech and STEM Education
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning OOP (Java)
 - 💞️ I’m looking to learn more about Socket Programming
 - 📫 How to reach me -> keyaa.mehta@gmail.com
 
